@@ -1,4 +1,13 @@
-## KHUNI 👋
+## Hi there 👋
+I am Kwanghun Lee who is interested in web and LLM from South Korea.
+
+If you want to contact me, please leave me a message.
+
+## Experience
+1. Apptive backend engineer (2021~2022)
+
+## Using langauge 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khuni)](https://solved.ac/khuni/)
 
 
