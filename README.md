@@ -8,9 +8,6 @@ If you want to contact me, please leave me a message.
 
 ## Using langauge 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khuni)](https://solved.ac/khuni/)
-
-
 <!--
 **khuni1/khuni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
