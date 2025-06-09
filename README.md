@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📚 Blog  
-[Visit my Tistory Blog]([https://your-tistory-link.tistory.com](https://securitygeek.tistory.com/))
+[Visit my Tistory Blog](https://securitygeek.tistory.com/)
