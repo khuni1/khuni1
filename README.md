@@ -9,7 +9,7 @@ If you want to contact me, please leave me a message.
 
 ## 💻 Tech Stack  
 - **Frontend**: Next.js, React  
-- **Backend**: Spring, PostgreSQL  
+- **Backend**: Spring, PostgreSQL, FastAPI  
 - **Languages**: Java, Python, C++  
 - **Infrastructure**: Kubernetes, Docker
   
